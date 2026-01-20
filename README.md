@@ -1,4 +1,7 @@
 # rusty_py
 
-Minimal Rust + NumPy Integration Template
+A simple Rust + PyO3 example that calculates the mean of a NumPy array.
 
+## Build
+```bash
+cargo build
